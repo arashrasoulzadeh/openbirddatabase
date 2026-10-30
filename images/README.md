@@ -16,3 +16,6 @@ python _scripts/enrich.py apply photos                      # writes image / ima
 Only CC0 and CC BY photos are used (iNaturalist research-grade observations through GBIF), different photographers first.
 Photos average about 28 KB at the default size. Git keeps every version forever, so check `du -sh images` before
 committing and choose `--max-photos` accordingly.
+
+The JPEGs are tracked with Git LFS (free quota: 1 GB), so the committed set is shrunk to 400 px / quality 60 (about 790 MB for
+5 photos per species). Install git-lfs (`git lfs install`) before cloning; on a server also run `git lfs pull`.

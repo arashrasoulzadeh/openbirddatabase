@@ -112,6 +112,16 @@ still works, just slower. **Deploy does not warm the cache** — the worker does
   Redis memory is capped by `REDIS_MAXMEMORY` (default 768mb) with least-recently-used eviction.
 - Wipe Redis any time with `docker compose exec redis redis-cli FLUSHALL`; the worker refills on its next tick (or restart it).
 
+## Species photos (Git LFS)
+
+The photos in `images/` (up to 5 per species, 400 px, about 790 MB) are stored with **Git LFS** (`.gitattributes`: `images/**/*.jpg`).
+The free GitHub LFS quota is 1 GB storage and 1 GB bandwidth per month, so keep the total under that
+(`PHOTO_WIDTH` / `PHOTO_QUALITY` in `_scripts/enrich/photos.py` shrink them).
+
+- **Server, once:** `sudo apt install -y git-lfs && git lfs install`, then `git lfs pull` in the checkout. Without git-lfs,
+  `git pull` only brings tiny pointer files and no photo shows up.
+- **Contributors:** install git-lfs before cloning (or run `git lfs pull` afterwards).
+
 ## Prebuilt images (recommended)
 
 The "Publish Images" workflow (`.github/workflows/publish-images.yml`) builds the website and API images on GitHub on
