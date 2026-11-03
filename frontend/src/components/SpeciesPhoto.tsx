@@ -39,7 +39,7 @@ export default function SpeciesPhoto({
   const current = all[Math.min(index, all.length - 1)];
   const licence = current.license || '';
   return (
-    <figure className="mt-6 max-w-sm overflow-hidden rounded-2xl bg-white/10 ring-1 ring-white/20">
+    <figure className="max-w-sm overflow-hidden rounded-2xl bg-white/10 ring-1 ring-white/20">
       {/* eslint-disable-next-line @next/next/no-img-element */}
       <img src={srcOf(current.file as string)} alt={alt} className="max-h-72 w-full bg-brand-900/30 object-cover" loading="eager" fetchPriority="high" />
       {all.length > 1 && (

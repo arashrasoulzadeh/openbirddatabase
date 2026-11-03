@@ -395,17 +395,21 @@ export default async function SpeciesPage({ params }: Props) {
               {t('dataCompleteness')}: {Math.round(completeness.core.score * 100)}%
             </a>
           )}
-          <SpeciesPhoto image={sp.image} images={sp.images} alt={localName} label={t('photoBy')} />
-          {facts.length > 0 && (
-            <dl className="mt-6 grid grid-cols-2 gap-3 sm:grid-cols-4">
-              {facts.map(([label, value]) => (
-                <div key={label} className="rounded-xl bg-white/10 px-3 py-2 ring-1 ring-white/15">
-                  <dt className="text-xs text-brand-100">{label}</dt>
-                  <dd className="truncate text-base font-semibold">{value}</dd>
-                </div>
-              ))}
-            </dl>
-          )}
+          <div className="mt-6 flex flex-col gap-6 sm:flex-row sm:items-start sm:justify-between">
+            <div className="flex-1">
+              <SpeciesPhoto image={sp.image} images={sp.images} alt={localName} label={t('photoBy')} />
+            </div>
+            {facts.length > 0 && (
+              <dl className="grid w-full grid-cols-2 gap-3 sm:w-auto sm:max-w-xs">
+                {facts.map(([label, value]) => (
+                  <div key={label} className="rounded-xl bg-white/10 px-3 py-2 ring-1 ring-white/15">
+                    <dt className="text-xs text-brand-100">{label}</dt>
+                    <dd className="truncate text-base font-semibold">{value}</dd>
+                  </div>
+                ))}
+              </dl>
+            )}
+          </div>
         </div>
       </section>
 

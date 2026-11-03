@@ -50,7 +50,7 @@ LOCAL_CACHE_TTL = int(os.environ.get("LOCAL_CACHE_TTL", "300"))         # second
 LOCAL_CACHE_TTL_STATIC = int(os.environ.get("LOCAL_CACHE_TTL_STATIC", "3600"))  # species, taxonomy, filters, stats
 LOCAL_CACHE_MAX_BYTES = int(os.environ.get("LOCAL_CACHE_MAX_MB", "96")) * 1024 * 1024
 # Fields a list view needs; with ?lang= a hit carries only English plus that language's name (~1/3 of the bytes)
-SLIM_HIT_FIELDS = ("id", "scientific_name", "genus", "family", "order", "iucn_status", "primary_habitat", "primary_diet", "migration_status", "data_quality")
+SLIM_HIT_FIELDS = ("id", "scientific_name", "genus", "family", "order", "iucn_status", "primary_habitat", "primary_diet", "migration_status", "data_quality", "image", "images")
 
 # MeiliSearch must never stall the API: every call has a timeout and runs in a dedicated pool (so a hung Meili
 # cannot exhaust the default thread pool used by /species and other file work). After a failure the API skips
@@ -654,7 +654,13 @@ async def search_species_get(
 async def random_species():
     """A random species (search-hit shape, without the long body text)."""
     doc = random.choice(get_species_index())
-    return {k: v for k, v in doc.items() if k not in HIT_FIELDS_EXCLUDED}
+    result = {k: v for k, v in doc.items() if k not in HIT_FIELDS_EXCLUDED}
+    # Ensure images are included if available
+    if 'image' not in result and doc.get('image'):
+        result['image'] = doc.get('image')
+    if 'images' not in result and doc.get('images'):
+        result['images'] = doc.get('images')
+    return result
 
 @app.get("/species/{scientific_name}")
 async def get_species(scientific_name: str, lang: str = Query("fa", description="Language code")):

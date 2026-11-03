@@ -72,6 +72,12 @@ def build_indexes():
             'body_text': get_body_text(filepath)[:5000],  # Limit size
         }
         
+        # Include images for cards in search/home
+        if fm.get('image'):
+            doc['image'] = fm.get('image')
+        if fm.get('images'):
+            doc['images'] = fm.get('images')
+        
         # BirdLife "possibly extinct" tag on a Critically Endangered species (PE / PEW)
         iucn_tag = fm.get('conservation', {}).get('iucn_tag')
         if iucn_tag:

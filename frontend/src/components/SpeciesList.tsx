@@ -4,6 +4,19 @@ import TrackedLink from './TrackedLink';
 import { useI18n } from '@/lib/i18n/I18nProvider';
 import { displayName, nameFromHit } from '@/lib/i18n/translate';
 import IucnBadge from './IucnBadge';
+import { photoUrl } from '@/lib/photos';
+
+function getRandomImage(sp: any): string | null {
+  const images = sp.images && Array.isArray(sp.images) ? sp.images : (sp.image ? [sp.image] : []);
+  if (!images.length) return null;
+  // Pick one random image for the card
+  const randomIndex = Math.floor(Math.random() * images.length);
+  const img = images[randomIndex];
+  if (img?.file) {
+    return photoUrl(img.file);
+  }
+  return null;
+}
 
 export default function SpeciesList({ species, query = '' }: { species: any[]; query?: string }) {
   const { lang } = useI18n();
@@ -14,6 +27,7 @@ export default function SpeciesList({ species, query = '' }: { species: any[]; q
       {species.map((sp) => {
         const name = displayName(lang, nameFromHit(sp, lang));
         const english = sp.common_name_en;
+        const randomImg = getRandomImage(sp);
         return (
           <li key={sp.id}>
             <TrackedLink
@@ -21,22 +35,35 @@ export default function SpeciesList({ species, query = '' }: { species: any[]; q
               bird={sp.scientific_name}
               source="search"
               query={query}
-              className="group block h-full rounded-xl border border-stone-200 bg-white p-4 shadow-sm transition hover:-translate-y-0.5 hover:border-brand-300 hover:shadow-md focus:outline-none focus:ring-2 focus:ring-brand-500"
+              className="group block h-full overflow-hidden rounded-xl border border-stone-200 bg-white shadow-sm transition hover:-translate-y-0.5 hover:border-brand-300 hover:shadow-md focus:outline-none focus:ring-2 focus:ring-brand-500"
             >
-              <div className="flex items-start justify-between gap-3">
-                <div className="min-w-0">
-                  <h3 className="font-semibold leading-snug text-stone-900 group-hover:text-brand-800">{name}</h3>
-                  {/* the original English name stays visible in every language */}
-                  {lang !== 'en' && english && english !== name && (
-                    <p className="text-sm text-stone-500" dir="ltr">{english}</p>
-                  )}
-                  <p className="text-sm italic text-stone-400" dir="ltr">{sp.scientific_name}</p>
+              {randomImg && (
+                <div className="h-40 w-full overflow-hidden bg-stone-100">
+                  {/* eslint-disable-next-line @next/next/no-img-element */}
+                  <img
+                    src={randomImg}
+                    alt={name}
+                    className="h-full w-full object-cover transition duration-300 group-hover:scale-105"
+                    loading="lazy"
+                  />
                 </div>
-                <IucnBadge status={sp.iucn_status} />
-              </div>
-              <div className="mt-3 flex flex-wrap gap-1.5 text-xs text-stone-600">
-                <span className="rounded-md bg-stone-100 px-2 py-0.5">{sp.order}</span>
-                <span className="rounded-md bg-stone-100 px-2 py-0.5">{sp.family}</span>
+              )}
+              <div className="p-4">
+                <div className="flex items-start justify-between gap-3">
+                  <div className="min-w-0">
+                    <h3 className="font-semibold leading-snug text-stone-900 group-hover:text-brand-800">{name}</h3>
+                    {/* the original English name stays visible in every language */}
+                    {lang !== 'en' && english && english !== name && (
+                      <p className="text-sm text-stone-500" dir="ltr">{english}</p>
+                    )}
+                    <p className="text-sm italic text-stone-400" dir="ltr">{sp.scientific_name}</p>
+                  </div>
+                  <IucnBadge status={sp.iucn_status} />
+                </div>
+                <div className="mt-3 flex flex-wrap gap-1.5 text-xs text-stone-600">
+                  <span className="rounded-md bg-stone-100 px-2 py-0.5">{sp.order}</span>
+                  <span className="rounded-md bg-stone-100 px-2 py-0.5">{sp.family}</span>
+                </div>
               </div>
             </TrackedLink>
           </li>
