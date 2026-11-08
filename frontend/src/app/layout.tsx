@@ -7,6 +7,7 @@ import { SITE_URL } from '@/lib/config';
 import { sliceFor } from '@/lib/i18n/bundle';
 import { dirOf } from '@/lib/i18n/locales';
 import { requestLang } from '@/lib/i18n/server';
+import Script from 'next/script';
 
 // Fonts are downloaded at build time and served from this site (no render-blocking request to Google), with only the
 // character sets a page needs loaded.
@@ -38,10 +39,15 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang={lang} dir={dirOf(lang)} className={`${inter.variable} ${vazir.variable}`}>
       <body className="min-h-screen bg-gray-50 font-sans antialiased">
+        <Script async src="https://www.googletagmanager.com/gtm.js?id=GTM-MBCW9VJH" />
+        <Script id="gtm-init" strategy="afterInteractive">{`window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date());`}</Script>
         <I18nProvider initialLang={lang} tables={sliceFor(lang)}>
           <Tracker />
           {children}
         </I18nProvider>
+        <footer className="border-t border-stone-200 bg-white py-4 text-center text-sm text-stone-500">
+          <a href="https://takhfifbazaar.ir" target="_blank" rel="noopener noreferrer" className="font-medium text-brand-700 hover:underline">تخفیف های لحظه ای</a>
+        </footer>
       </body>
     </html>
   );
