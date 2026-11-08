@@ -684,6 +684,23 @@ async def get_species(scientific_name: str, lang: str = Query("fa", description=
     key = species_key(slug) + (f":{lang}" if translated else "")
     return await cached_response(key, CACHE_STATIC_TTL, produce)
 
+@app.get("/species/{scientific_name}.md")
+async def get_species_markdown(scientific_name: str, lang: str = Query("fa", description="Language code")):
+    """Return the species file as Markdown."""
+    filepath = get_species_file(scientific_name)
+    if not filepath:
+        raise HTTPException(status_code=404, detail="Species not found")
+    text = filepath.read_text(encoding="utf-8")
+    if lang not in ("fa", "en") and TRANSLATIONS_DIR.exists():
+        fm = parse_frontmatter(filepath)
+        if fm:
+            import yaml
+            merged = merge_translations(fm, lang)
+            parts = text.split("---", 2)
+            body = parts[2] if len(parts) >= 3 else ""
+            text = "---\n" + yaml.safe_dump(merged, sort_keys=False, allow_unicode=True) + "---\n" + body
+    return Response(content=text, media_type="text/markdown; charset=utf-8")
+
 TAXONOMY_LANGS = {"en", "fa", "ar", "es", "fr", "de", "pt", "ru", "ja", "zh", "nl", "pl", "tr"}
 
 def _usable_name(value: Any) -> str:
