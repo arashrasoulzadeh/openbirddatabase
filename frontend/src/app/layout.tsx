@@ -46,7 +46,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           {children}
         </I18nProvider>
         <footer className="border-t border-stone-200 bg-white py-4 text-center text-sm text-stone-500">
-          <a href="https://takhfifbazaar.ir" target="_blank" rel="noopener noreferrer" className="font-medium text-brand-700 hover:underline">تخفیف های لحظه ای</a>
+          <a href="https://takhfifbazaar.ir?utm_source=birds.meetarash.ir&utm_medium=referral&utm_campaign=footer" target="_blank" rel="noopener noreferrer" className="font-medium text-brand-700 hover:underline">تخفیف های لحظه ای</a>
         </footer>
       </body>
     </html>
