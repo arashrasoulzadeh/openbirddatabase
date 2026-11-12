@@ -15,7 +15,9 @@ export default function EyeAnalytics() {
     client.init({
       apiKey: EYE_CONFIG.apiKey,
       tenant: EYE_CONFIG.tenant,
-      endpoint: EYE_CONFIG.endpoint,
+      // Eye's API currently does not expose browser CORS headers. The local
+      // proxy keeps the CDN SDK same-origin and forwards to EYE_CONFIG.endpoint.
+      endpoint: EYE_CONFIG.browserEndpoint,
       storageKey: 'openbird_eye_session',
       autoTrack: true,
       debug: process.env.NODE_ENV !== 'production',
